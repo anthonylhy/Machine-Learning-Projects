@@ -2,4 +2,4 @@
 
 An Udemy Course Project
 
-some data visualizations and statistical altorithms were written in Pyhon. 
+some data visualizations and statistical altorithms were written in Python. 
